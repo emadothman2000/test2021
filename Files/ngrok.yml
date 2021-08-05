@@ -1,0 +1,5 @@
+region: us  
+tunnels:  
+    default:  
+        proto: tcp  
+        addr: 3389 
